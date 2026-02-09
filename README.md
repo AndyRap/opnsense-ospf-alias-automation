@@ -8,6 +8,6 @@ Once completed it reconfigures the aliases, like clicking the apply button.
 
 You will need to add your API key and Secret, Server URL and Port, and the name of your Network alias.
 
-I chose to store this as /root/update_network_alias.sh
+I chose to store this as /root/update_ospf_alias.sh
 
 Run from a cron job created on the command line.
